@@ -1552,6 +1552,7 @@
   dependencies:
     "@react-navigation/native" "^5.9.2"
     "@react-navigation/stack" "^5.14.2"
+    prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
@@ -1561,6 +1562,12 @@
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
+  version "1.0.0"
+  dependencies:
+    prop-types "^15.8.1"
+    react-native-app-intro-slider "^4.0.4"
+
+"@modules/onboarding@file:./modules/onboarding/":
   version "1.0.0"
   dependencies:
     prop-types "^15.8.1"
@@ -1578,9 +1585,6 @@
     react-native-render-html "^5.1.0"
 
 "@modules/push-notifications@file:./modules/push-notifications":
-  version "1.0.0"
-
-"@modules/push-notifications@file:./modules/push-notifications/":
   version "1.0.0"
 
 "@modules/splash@file:./modules/splash":

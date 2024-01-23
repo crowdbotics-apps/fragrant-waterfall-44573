@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [react-native-login](modules/login)
 - [react-native-mapbox-maps](modules/mapbox-maps)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 

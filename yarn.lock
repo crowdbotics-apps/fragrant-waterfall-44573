@@ -1552,6 +1552,15 @@
   dependencies:
     "@react-navigation/native" "^5.9.2"
     "@react-navigation/stack" "^5.14.2"
+    prop-types "15.8.1"
+    react-native-keyboard-aware-scroll-view "^0.9.3"
+
+"@modules/login@file:./modules/login/":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "^5.9.2"
+    "@react-navigation/stack" "^5.14.2"
+    prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
@@ -1581,9 +1590,6 @@
   version "1.0.0"
 
 "@modules/splash@file:./modules/splash":
-  version "1.0.0"
-
-"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/subscription@file:./modules/subscription":

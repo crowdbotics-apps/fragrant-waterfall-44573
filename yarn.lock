@@ -1483,6 +1483,9 @@
     uuid "^8.3.2"
     zustand "^3.5.13"
 
+"@modules/maps@file:./modules/maps":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps/":
   version "1.0.0"
 

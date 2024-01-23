@@ -1552,6 +1552,7 @@
   dependencies:
     "@react-navigation/native" "^5.9.2"
     "@react-navigation/stack" "^5.14.2"
+    prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
@@ -1580,10 +1581,10 @@
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash":
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":

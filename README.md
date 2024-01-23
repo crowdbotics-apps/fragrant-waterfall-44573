@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-push-notifications](modules/push-notifications)
 - [react-native-splash](modules/splash)
 - [django-push-notifications](backend/modules)
+- [subscription]()
 
 # Getting started: Frontend
 

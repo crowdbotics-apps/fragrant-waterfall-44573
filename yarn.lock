@@ -1586,6 +1586,9 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
+
 "@modules/subscription@file:./modules/subscription":
   version "1.0.1"
 

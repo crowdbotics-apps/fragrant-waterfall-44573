@@ -1572,6 +1572,9 @@
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+  version "1.0.0"
+
 "@modules/privacy-policy@file:./modules/privacy-policy":
   version "1.0.1"
   dependencies:
@@ -1587,9 +1590,6 @@
   version "1.0.1"
 
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
-  version "1.0.0"
-
-"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
   version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":

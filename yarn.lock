@@ -1580,10 +1580,10 @@
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash":
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/subscription@file:./modules/subscription":

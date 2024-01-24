@@ -1558,9 +1558,6 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
-"@modules/mapbox-maps@file:./modules/mapbox-maps/":
-  version "1.0.0"
-
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1576,6 +1573,9 @@
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+  version "1.0.0"
+
 "@modules/privacy-policy@file:./modules/privacy-policy":
   version "1.0.1"
   dependencies:
@@ -1585,9 +1585,6 @@
   version "1.0.0"
 
 "@modules/splash@file:./modules/splash":
-  version "1.0.0"
-
-"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/subscription@file:./modules/subscription":

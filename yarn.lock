@@ -1558,6 +1558,9 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1588,9 +1591,6 @@
   version "1.0.1"
 
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
-  version "1.0.0"
-
-"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
   version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
